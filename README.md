@@ -14,4 +14,4 @@
 
 7. train perceptron which generates feature vectors from the dataset parameters by decoder-perceptron.py and employ it for generator of images from the parameters by final-generator.py
 
-see <a href="http://www.agentspace.org/andy/lucny-itat2020-presentation.pdf">presentation</a>
+see <a href="http://www.agentspace.org/andy/lucny-itat2020-presentation.pdf">presentation on ITAT 2020</a>
