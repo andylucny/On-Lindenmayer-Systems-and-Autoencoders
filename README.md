@@ -13,3 +13,5 @@
 6. recognize paramaters of the dataset by encoder-regression.py or encoder-perceptron.py
 
 7. train perceptron which generates feature vectors from the dataset parameters by decoder-perceptron.py and employ it for generator of images from the parameters by final-generator.py
+
+see <a href="www.agentspace.org/andy/lucny-itat2020-presentation.pdf">presentation</a>
